@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 - 👋 Hi, I’m @xiaofengyvan
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning Java
