@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" hight="300" src="程序员.gif"/></br></br></br>
 - 👋 Hi, I’m @xiaofengyvan</br>
 - 👀 I’m interested in Music</br>
-- 🌱 I’m currently learning Java</br>
+- 🌱 I’m currently learning Vue</br>
 - 💞️ I’m looking to collaborate on BigData</br>
 - 📫 How to reach me 1138256717@qq.com</br>
 <!---
