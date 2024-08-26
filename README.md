@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm xiaofengyvan </h1>
 <h3 align="center">A Full-Stack developer from Shanghai China</h3>
-<img align="right" alt="Coding" width="400" hight="300" src="程序员.gif"/></br></br></br>
+<img align="right" alt="Coding" width="300" hight="200" src="程序员.gif"/></br></br></br>
 - 👋 Hi, I’m @xiaofengyvan</br>
 - 👀 I’m interested in Music</br>
 - 🌱 I’m currently learning Java</br>
